@@ -8,4 +8,5 @@ layout: page
 Feel free to contact me below!
 
 Email: p.pham204@gmail.com
+
 LinkedIn: linkedin.com/perple
