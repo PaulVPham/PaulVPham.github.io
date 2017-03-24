@@ -16,8 +16,9 @@ description: 'Write an awesome description for your new site here. You can edit 
 '
 baseurl: 
 url: 
-twitter_username: jekyllrb
-github_username: jekyll
+twitter_username: 
+github_username: PaulVPham
+linkedin_username: 
 markdown: kramdown
 theme: minima
 gems:
