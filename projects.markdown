@@ -5,3 +5,4 @@ position: 3
 layout: page
 ---
 
+Building a product mind through understanding web development and design.
