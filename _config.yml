@@ -1,28 +1,36 @@
----
-title: Paul V. Pham - Product, Technology, & Creativity
-timezone: America/Los_Angeles
-collections:
-  posts:
-    title: Posts
-    output: true
-  uploads:
-    title: Uploads
-    output: true
+# Site settings
+title: Paul Pham
+subtitle: Tech & Product Driven
 email: p.pham204@gmail.com
-description: 'Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for Google search
-  results) and in your feed.xml site description.
+description: I aspire to build interesting things, discover new challenges, and find new recipes.
+baseurl: "/paul" # the subpath of your site, e.g. /blog
+url: "" # the base hostname & protocol for your site
+author:
+street_address:
+city: Santa Barbara
+state: CA
+zip_code:
+country:
+phone: (714) 660-7351
 
-'
-baseurl: 
-url: 
-twitter_username: 
-github_username: PaulVPham
-linkedin_username: 
+# Homepage tiles
+tiles-source: posts # accepts "posts" or "pages"
+tiles-count: 4
+
+# Social settings
+500px_url:
+facebook_url:
+github_url: https://github.com/PaulVPham
+gitlab_url:
+googleplus_url:
+instagram_url: https://instagram.com/perplepham
+linkedin_url: https://www.linkedin.com/in/perple
+pinterest_url:
+slack_url:
+twitter_url: https://twitter.com/paulpham24
+
+# Build settings
 markdown: kramdown
-theme: minima
-gems:
-- jekyll-feed
-exclude:
-- Gemfile
-- Gemfile.lock
+
+sass:
+  style: compressed
