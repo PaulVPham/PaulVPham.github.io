@@ -1,36 +1,38 @@
-# Site settings
+---
 title: Paul Pham
+timezone: UTC
+collections:
+  posts:
+    title: Posts
+    output: true
+  uploads:
+    title: Uploads
+    output: true
 subtitle: Tech & Product Driven
 email: p.pham204@gmail.com
-description: I aspire to build interesting things, discover new challenges, and find new recipes.
-baseurl: "/paul" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site
-author:
-street_address:
+description: I aspire to build interesting things, discover new challenges, and find
+  new recipes.
+baseurl: "/paul"
+url: ''
+author: 
+street_address: 
 city: Santa Barbara
 state: CA
-zip_code:
-country:
-phone: (714) 660-7351
-
-# Homepage tiles
-tiles-source: posts # accepts "posts" or "pages"
+zip_code: 
+country: 
+phone: "(714) 660-7351"
+tiles-source: posts
 tiles-count: 4
-
-# Social settings
-500px_url:
-facebook_url:
+500px_url: 
+facebook_url: 
 github_url: https://github.com/PaulVPham
-gitlab_url:
-googleplus_url:
+gitlab_url: 
+googleplus_url: 
 instagram_url: https://instagram.com/perplepham
 linkedin_url: https://www.linkedin.com/in/perple
-pinterest_url:
-slack_url:
+pinterest_url: 
+slack_url: 
 twitter_url: https://twitter.com/paulpham24
-
-# Build settings
 markdown: kramdown
-
 sass:
   style: compressed
