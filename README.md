@@ -1,7 +1,7 @@
 # Paul's Project Website
 This repo's purpose is for me to have a personal website to host my projects and show my general portfolio. A blog is included because I want to write things too.
 
-Credit for website template design goes to HTML5 UP and Andrew Banchich.
+Credit for website template design goes to HTML5 UP and Andrew Banchich. Please reference the sections below for more info. 
 
 # Forty - Jekyll Theme
 
