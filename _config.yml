@@ -10,28 +10,30 @@ collections:
     output: true
 subtitle: Tech & Product Driven
 email: p.pham204@gmail.com
-description: I aspire to build interesting things, discover new challenges, and find
-  new recipes.
-baseurl: "/paul"
+description: I aspire to discover new challenges, build interesting things, and cook
+  new recipes. Everyday is an opportunity to grow. 
+baseurl:
 url: ''
-author: 
-street_address: 
+author:
+street_address:
 city: Santa Barbara
 state: CA
-zip_code: 
-country: 
+zip_code:
+country:
 phone: "(714) 660-7351"
+
 tiles-source: posts
 tiles-count: 4
-500px_url: 
-facebook_url: 
+
+500px_url:
+facebook_url:
 github_url: https://github.com/PaulVPham
-gitlab_url: 
-googleplus_url: 
+gitlab_url:
+googleplus_url:
 instagram_url: https://instagram.com/perplepham
 linkedin_url: https://www.linkedin.com/in/perple
-pinterest_url: 
-slack_url: 
+pinterest_url:
+slack_url:
 twitter_url: https://twitter.com/paulpham24
 markdown: kramdown
 sass:

@@ -2176,7 +2176,7 @@
 	}
 
 	a.icon.alt:hover:before {
-		background-color: #6fc3df;
+		background-color: #4b79b4;
 	}
 
 	a.icon.alt:active:before {
@@ -2786,11 +2786,11 @@
 			}
 
 			.tiles article:nth-child(6n - 5):before {
-				background-color: #6fc3df;
+				background-color: #4b79b4;
 			}
 
 			.tiles article:nth-child(6n - 4):before {
-				background-color: #8d82c4;
+				background-color: #669900;
 			}
 
 			.tiles article:nth-child(6n - 3):before {
@@ -3214,11 +3214,11 @@
 		}
 
 			#header.alt.style1 .logo strong {
-				color: #6fc3df;
+				color: #4b79b4;
 			}
 
 			#header.alt.style2 .logo strong {
-				color: #8d82c4;
+				color: #669900;
 			}
 
 			#header.alt.style3 .logo strong {
@@ -3335,7 +3335,7 @@
 		-webkit-align-items: center;
 		-ms-align-items: center;
 		align-items: center;
-		background-image: url("../images/banner.jpg");
+		background-image: url("../images/sb_views.jpg");
 		display: -moz-flex;
 		display: -webkit-flex;
 		display: -ms-flex;
@@ -3368,12 +3368,12 @@
 			-webkit-pointer-events: none;
 			-ms-pointer-events: none;
 			pointer-events: none;
-			background-color: #242943;
+			background-color: #ffd11a;
 			content: '';
 			display: block;
 			height: 100%;
 			left: 0;
-			opacity: 0.85;
+			opacity: 0.60;
 			position: absolute;
 			top: 0;
 			width: 100%;
@@ -3449,13 +3449,13 @@
 			}
 
 		#banner.style1:after {
-			background-color: #6fc3df;
+			background-color: #4b79b4;
 		}
 
 		#banner.style2:after {
-			background-color: #8d82c4;
+			background-color: #ff7733;
 		}
-
+		/* this affects landing style pages */
 		#banner.style3:after {
 			background-color: #ec8d81;
 		}
@@ -3485,7 +3485,7 @@
 			-webkit-transform: translateX(-0.5em);
 			-ms-transform: translateX(-0.5em);
 			transform: translateX(-0.5em);
-			opacity: 0;
+			opacity: 0.50;
 		}
 
 		@media screen and (max-width: 1280px) {
@@ -3547,7 +3547,7 @@
 /* Main */
 
 	#main {
-		background-color: #2a2f4a;
+		background-color: #a6a6a6;
 	}
 
 		#main > * {
