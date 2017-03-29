@@ -1,10 +1,10 @@
 ---
-title: Landing
+title: Resume
 layout: landing
-description: Lorem ipsum dolor sit amet nullam consequa<br />sed veroeros. tempus
-  adipiscing nulla.
+description: Work Experience, Skills, Education, Awards, & Interests
 image: assets/images/pic07.jpg
 nav-menu: true
+position: 2
 ---
 
 <section id="banner" class="style2">
@@ -14,7 +14,7 @@ nav-menu: true
 </span>
   <header class="major">
 
-# Landing
+Resume
 
 </header>
   <div class="content">
@@ -29,11 +29,12 @@ nav-menu: true
   <section id="one">
   <div class="inner"><header class="major">
 
-## Sed amet aliquam
+WORK EXPERIENCE
 
 </header>
 
-Nullam et orci eu lorem consequat tincidunt vivamus et sagittis magna sed nunc rhoncus condimentum sem. In efficitur ligula tate urna. Maecenas massa vel lacinia pellentesque lorem ipsum dolor. Nullam et orci eu lorem consequat tincidunt. Vivamus et sagittis libero. Nullam et orci eu lorem consequat tincidunt vivamus et sagittis magna sed nunc rhoncus condimentum sem. In efficitur ligula tate urna.
+Company
+Title
 
 </div>
   <p></p>
@@ -41,60 +42,51 @@ Nullam et orci eu lorem consequat tincidunt vivamus et sagittis magna sed nunc r
   <p>
 </p>
   <section id="two" class="spotlights">
-  <section><a href="generic.html">
+  <section>
   <img src="assets/images/pic08.jpg" alt="" data-position="center center">
-</a>{:.image}
 
 <div class="content">
   <div class="inner"><header class="major">
 
-### Orci maecenas
+TECHNOLOGY & GENERAL SKILLS
 
 </header>
 
-Nullam et orci eu lorem consequat tincidunt vivamus et sagittis magna sed nunc rhoncus condimentum sem. In efficitur ligula tate urna. Maecenas massa sed magna lacinia magna pellentesque lorem ipsum dolor. Nullam et orci eu lorem consequat tincidunt. Vivamus et sagittis tempus.
+Text Goes Here.
 
-<em><a href="generic.html">Learn more</a>{:.button}
-
-</em></div>
+</div>
   <em></em>
 </div></section>
   <em></em>
   <section>
-  <em><a href="generic.html"><img src="assets/images/pic09.jpg" alt="" data-position="top center"></a>{:.image}
+  <em><img src="assets/images/pic09.jpg" alt="" data-position="top center">
 
 </em>
   <div class="content">
   <em></em>
-  <div class="inner"><em><header class="major">
+  <div class="inner">
 
-### Rhoncus magna
+EDUCATION:
 
-</header>
+University of California, Santa Barbara
 
-Nullam et orci eu lorem consequat tincidunt vivamus et sagittis magna sed nunc rhoncus condimentum sem. In efficitur ligula tate urna. Maecenas massa sed magna lacinia magna pellentesque lorem ipsum dolor. Nullam et orci eu lorem consequat tincidunt. Vivamus et sagittis tempus.
 
-</em>   <a href="generic.html">Learn more</a>{:.button}
 
 </div>
 </div>
 </section>
-  <section><a href="generic.html">
+  <section>
   <img src="assets/images/pic10.jpg" alt="" data-position="25% 25%">
-</a>{:.image}
 
 <div class="content">
   <div class="inner"><header class="major">
 
-### Sed nunc ligula
+AWARDS
 
 </header>
 
-Nullam et orci eu lorem consequat tincidunt vivamus et sagittis magna sed nunc rhoncus condimentum sem. In efficitur ligula tate urna. Maecenas massa sed magna lacinia magna pellentesque lorem ipsum dolor. Nullam et orci eu lorem consequat tincidunt. Vivamus et sagittis tempus.
 
-<em><a href="generic.html">Learn more</a>{:.button}
-
-</em></div>
+</div>
   <em></em>
 </div></section>
   <em><p></p></em>
@@ -104,18 +96,6 @@ Nullam et orci eu lorem consequat tincidunt vivamus et sagittis magna sed nunc r
 </em>
   <section id="three">
   <em></em>
-  <div class="inner"><em><header class="major">
+  <div class="inner"><header class="major">
 
-## About Me
-
-</header>
-
-TEST Nullam et orci eu lorem consequat tincidunt vivamus et sagittis libero. Mauris aliquet magna magna sed nunc rhoncus pharetra. Pellentesque condimentum sem. In efficitur ligula tate urna. Maecenas laoreet massa vel lacinia pellentesque lorem ipsum dolor. Nullam et orci eu lorem consequat tincidunt. Vivamus et sagittis libero. Mauris aliquet magna magna sed nunc rhoncus amet pharetra et feugiat tempus.
-
-</em>   <a href="generic.html">Learn More</a>{:.button .next}
-
-</div>
-</section>
-  <p>
-</p>
-</div>
+INTERESTS
