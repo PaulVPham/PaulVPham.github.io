@@ -7,14 +7,8 @@ image: assets/images/topOfTheRock.jpg
 nav-menu: true
 ---
 
-Hi, most people call me Paul. My family calls me Huy. Pick one. I have always had my curiosity with me from building Legos, studying history, cooking non-stop, traveling, becoming fully fluent in Vietnamese, and now learning web development and fostering a product-driven and technical mindset. The bigger picture is that curiosity drives my passion to learn and create from within myself and with the people around me.
+Hi, most people call me Paul. My family calls me Huy. I have always had my curiosity with me from building Legos, studying history, cooking non-stop, traveling, becoming fluent in Vietnamese, and now learning web development to foster a product-driven and technical mindset. The bigger picture is that curiosity drives my passion to learn and create from within myself and with the people around me. I have found that technology is guiding me in that direction.
 
-<div class="row">
-	<div class="6u 12u$(small)">
-		<h3>Sem turpis amet semper</h3>
-		<p>Nunc lacinia ante nunc ac lobortis. Interdum adipiscing gravida odio porttitor sem non mi integer non faucibus ornare mi ut ante amet placerat aliquet. Volutpat commodo eu sed ante lacinia. Sapien a lorem in integer ornare praesent commodo adipiscing arcu in massa commodo lorem accumsan at odio massa ac ac. Semper adipiscing varius montes viverra nibh in adipiscing blandit tempus accumsan.</p>
-	</div>
-	<div class="6u$ 12u$(small)">
-		<h3>Magna odio tempus commodo</h3>
-		<p>In arcu accumsan arcu adipiscing accumsan orci ac. Felis id enim aliquet. Accumsan ac integer lobortis commodo ornare aliquet accumsan erat tempus amet porttitor. Ante commodo blandit adipiscing integer semper orci eget. Faucibus commodo adipiscing mi eu nullam accumsan morbi arcu ornare odio mi adipiscing nascetur lacus ac interdum morbi accumsan vis mi accumsan ac praesent.</p>
-	</div>
+I currently work at a software company in a technical support role. I investigate complex tier two support issues, maintain and prioritize a bug backlog, and work towards providing the best customer experience possible. Through these responsibilities, I have discovered an interest in building great software that provides users values and all the moving parts. Interacting with product, engineering, and UX teams daily has given me exposure to the depth and effort required to create intuitive and products that can change people's lives.
+
+In my free time, this is what I do. I study different technologies, build programs here and there, delve into product management, and challenge myself to solve problems and create apps, wireframes, and products I think others would love. 

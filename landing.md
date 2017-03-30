@@ -1,7 +1,7 @@
 ---
 title: Resume
 layout: landing
-description: Work Experience, Skills, Education, Awards, & Interests
+description: Work Experience - Skills - Education - Awards - Interests
 image: assets/images/pic07.jpg
 nav-menu: true
 position: 2
@@ -10,35 +10,36 @@ position: 2
 <section id="banner" class="style2">
   <div class="inner">
   <span class="image">
-  <img src="{{ site.baseurl }}/%7B%7B%20page.image%20%7D%7D" alt="">
-</span>
-  <header class="major">
+  <!-- img src="{{ site.baseurl }}/%7B%7B%20page.image%20%7D%7D" alt="" -->
+  </span>
+<header class="major">
 
-Resume
+<h1>Resume</h1>
 
 </header>
   <div class="content">
 
-{{ page.description }}
+{{ page.description }} <br />
+Download Resume
 
-</div>
-</div>
+  </div>
+  </div>
 </section>
 
-<div id="main">
-  <section id="one">
-  <div class="inner"><header class="major">
+<!-- div id="main"-->
+  <!-- section id="one" -->
+  <!-- div class="inner"><header class="major" -->
 
-WORK EXPERIENCE
 
-</header>
+TEST TEST
+<!-- /header -->
 
 Company
 Title
 
 </div>
   <p></p>
-</section>
+<!-- /section -->
   <p>
 </p>
   <section id="two" class="spotlights">
@@ -47,6 +48,7 @@ Title
 
 <div class="content">
   <div class="inner"><header class="major">
+
 
 TECHNOLOGY & GENERAL SKILLS
 
@@ -59,18 +61,20 @@ Text Goes Here.
 </div></section>
   <em></em>
   <section>
-  <em><img src="assets/images/pic09.jpg" alt="" data-position="top center">
-
-</em>
+  <em><img src="assets/images/pic09.jpg" alt="" data-position="top center"></em>
   <div class="content">
   <em></em>
   <div class="inner">
 
 EDUCATION:
 
-University of California, Santa Barbara
-
-
+<p>
+University of California, Santa Barbara              
+<br />
+June 2014
+<br />
+B.A. History with Distinction in the Major and Honors
+</p>
 
 </div>
 </div>

@@ -10,14 +10,9 @@ collections:
     output: true
 subtitle: Tech & Product Driven
 email: p.pham204@gmail.com
-description: I aspire to discover new challenges, build interesting things, and cook
-<<<<<<< HEAD
-  new recipes. Everyday is an opportunity to grow. Feel free to click View Projects to the right.
+description: I aspire to discover new challenges, build interesting things, and cook new recipes. Everyday is an opportunity to grow. Feel free to click View Projects to the right.
 baseurl:
-=======
-  new recipes. Everyday is an opportunity to grow.
-baseurl:
->>>>>>> 31a7317f5b00af8698400ea666bb24646d71c272
+
 url: ''
 author:
 street_address:

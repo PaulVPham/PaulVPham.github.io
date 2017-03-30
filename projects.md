@@ -33,7 +33,7 @@ position: 3
 				<td><a href="learn-rails-paul.herokuapp.com">View</a></td>
 			</tr>
 			<tr>
-				<td>Senior Honors Thesis, 2013-2014</td>
+				<td><em>Assured Commitment: </em>Senior Honors Thesis, 2013-2014</td>
 				<td>Description goes here.</td>
 				<td>Download</td>
 			</tr>
