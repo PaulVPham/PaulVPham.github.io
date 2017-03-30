@@ -30,18 +30,13 @@ Download Resume
   <!-- section id="one" -->
   <!-- div class="inner"><header class="major" -->
 
-
-TEST TEST
 <!-- /header -->
 
-Company
-Title
-
-</div>
-  <p></p>
+<!-- /div>
+  <p></p-->
 <!-- /section -->
-  <p>
-</p>
+  <!--p>
+</p-->
   <section id="two" class="spotlights">
   <section>
   <img src="assets/images/pic08.jpg" alt="" data-position="center center">
@@ -66,14 +61,12 @@ Text Goes Here.
   <em></em>
   <div class="inner">
 
-EDUCATION:
-
+<strong>SKILLS & TOOLS</strong>
 <p>
-University of California, Santa Barbara              
-<br />
-June 2014
-<br />
-B.A. History with Distinction in the Major and Honors
+list list list list list list <br />
+list list list list list list <br />
+list list list list list list <br />
+list list list list list list <br />
 </p>
 
 </div>
@@ -85,21 +78,21 @@ B.A. History with Distinction in the Major and Honors
 <div class="content">
   <div class="inner"><header class="major">
 
-AWARDS
+  <strong>EDUCATION:</strong>
 
-</header>
+  <p>
+  University of California, Santa Barbara              
+  <br />
+  June 2014
+  <br />
+  B.A. History with Distinction in the Major and Honors
+  </p>
+  <br />
 
-
-</div>
-  <em></em>
-</div></section>
-  <em><p></p></em>
-</section>
-  <em>
-  <p></p>
-</em>
-  <section id="three">
-  <em></em>
-  <div class="inner"><header class="major">
-
-INTERESTS
+  <strong>AWARDS:</strong>
+  <p>
+      Senior Honors Thesis Award, 2013-2014 <br />
+      Member of Phi Beta Kappa <br />
+      2014 UCSB Research Colloquium - 3rd Place Winner (Humanities & Fine Arts) <br />
+      Finalist for Buchanan Award (History Major of the Year) <br />
+  </p>
