@@ -1,10 +1,10 @@
 ---
 title: Resume
+position: 2
 layout: landing
 description: Work Experience - Skills - Education - Awards - Interests
 image: assets/images/pic07.jpg
 nav-menu: true
-position: 2
 ---
 
 <section id="banner" class="style2">

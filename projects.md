@@ -1,10 +1,10 @@
 ---
 title: Project List
+position: 3
 layout: post
 description: All the projects in one view
 image: assets/images/learnGrindTwo.jpg
 nav-menu: true
-position: 3
 ---
 
 <div class="table-wrapper">
