@@ -22,7 +22,7 @@ nav-menu: true
 <p>
 Work Experience - Skills - Education - Awards - Interests
 <br />
-<a href="assets/pdfs/Paul Pham, Resume 3-30-17.pdf">Download Resume</a>
+<a href="assets/pdfs/Paul Pham, Resume 4-3-17.pdf">Download Resume</a>
 </p>
 
   </div>
@@ -68,7 +68,7 @@ Santa Barbara, CA -- March 2015 - Present<br />
   four hour response time to user issues.</li>
 </ul>
 
-<strong>The Judge Law Firm</strong><br />
+<strong>The Judge Law Firm </strong><em>The Judge Law Firm provides clients with legal services in real estate and HOA law throughout California.</em><br />
 Irvine, CA -- July 2014 - March 2015<br />
 <em>Legal Assistant</em><br />
 
