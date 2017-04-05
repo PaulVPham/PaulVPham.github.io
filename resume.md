@@ -1,58 +1,23 @@
 ---
 title: Resume
-position: 2
-layout: landing
-description: Work Experience - Skills - Education - Awards - Interests
-image: assets/images/pic07.jpg
+layout: post
+description: test resume
+image:
 nav-menu: true
 ---
 
-<section id="banner" class="style2">
-  <div class="inner">
-  <span class="image">
-  <img src="{{ site.baseurl }}/%7B%7B%20page.image%20%7D%7D" alt="">
-  </span>
-<header class="major">
-
-<h1>Resume</h1>
-
-</header>
-  <div class="content">
-
 <p>
-Work Experience - Skills - Education - Awards - Interests
+Work Experience - Skills - Education - Awards
 <br />
-<a href="assets/pdfs/Paul Pham, Resume 4-3-17.pdf">Download Resume</a>
+<a href="assets/pdfs/Paul Pham, Resume 4-3-17.pdf"><strong>Download Resume</strong></a>
 </p>
-
-  </div>
-  </div>
-</section>
-
-<!-- div id="main"-->
-  <!-- section id="one" -->
-  <!-- div class="inner"><header class="major" -->
-
-<!-- /header -->
-
-<!-- /div>
-  <p></p-->
-<!-- /section -->
-  <!--p>
-</p-->
-  <section id="two" class="spotlights">
-  <section>
-  <!--img src="assets/images/pic08.jpg" alt="" data-position="center center" -->
-
-<div class="content">
-  <div class="inner"><header class="major">
-
 
 <h4><strong>WORK EXPERIENCE</strong></h4>
 
-<strong>Appfolio, Inc.</strong> (Nasdaq: APPF) <em>Appfolio is a SaaS company helping small and mid-size business grow and succeed with cloud-based solutions.</em><br />
+<strong>Appfolio, Inc.</strong> (Nasdaq: APPF)<br />
+<em>Appfolio is a SaaS company helping small and mid-size business grow and succeed with cloud-based solutions.</em><br />
 Santa Barbara, CA -- March 2015 - Present<br />
-<em>Customer Success Manager, MyCase</em><br /><br />
+<em>Customer Success Manager, MyCase</em>
 
 <ul>
   <li>Prioritize user bug backlog from initial report to ongoing updates, expectations for resolution, verify acceptance criteria, <br /> check release notes, and follow-up with affected customers.</li>
@@ -68,9 +33,10 @@ Santa Barbara, CA -- March 2015 - Present<br />
   four hour response time to user issues.</li>
 </ul>
 
-<strong>The Judge Law Firm </strong><em>The Judge Law Firm provides clients with legal services in real estate and HOA law throughout California.</em><br />
+<strong>The Judge Law Firm </strong><br />
+<em>The Judge Law Firm provides clients with legal services in real estate and HOA law throughout California.</em><br />
 Irvine, CA -- July 2014 - March 2015<br />
-<em>Legal Assistant</em><br />
+<em>Legal Assistant</em>
 
 <ul>
   <li>Managed and updated 200 cases from open to close from southern California property management clients for attorney and <br /> legal department review.</li>
@@ -78,21 +44,10 @@ Irvine, CA -- July 2014 - March 2015<br />
   <br /> paperwork to evaluate potential case value.</li>
 </ul>
 
-</header>
-
-</div>
-  <em></em>
-</div></section>
-  <em></em>
-<section>
-  <!-- em><img src="assets/images/pic09.jpg" alt="" data-position="top center"></em-->
-  <div class="content">
-  <em></em>
-  <div class="inner">
-
 <h4><strong>SKILLS & TOOLS</strong></h4>
 <p>
-<strong>Product Relevant:</strong> customer experience, bug prioritization, user stories, pair programming, kanban, agile SDLC, user assurance testing, user research, workflow improvement <br />
+<strong>Product Relevant:</strong> customer experience, bug prioritization, user stories, pair programming, kanban, agile SDLC, user assurance <br /> testing, user research, workflow improvement
+<br />
 <strong>Project Management:</strong> PivotalTracker, Trello, Github, InVision<br />
 <strong>Technologies Used:</strong> Salesforce, VirtualBox, Zapier, SendGrid, Microsoft Office, GoToMeeting<br />
 <strong>Web Development:</strong> HTML & CSS, Jekyll, Ruby, Ruby on Rails, Rails console, Unix Cmd Line, Heroku<br />
@@ -102,30 +57,20 @@ Irvine, CA -- July 2014 - March 2015<br />
 <h4><strong>PROJECTS</strong></h4>
 <a href="/projects.html" class="button">View Projects</a><br />
 
-</div>
-</div>
-</section>
-  <section>
-  <img src="assets/images/pic09.jpg" alt="" data-position="25% 25%">
+<strong>EDUCATION:</strong>
 
-<div class="content">
-  <div class="inner"><header class="major">
+<p>
+University of California, Santa Barbara              
+<br />
+June 2014
+<br />
+B.A. History with Distinction in the Major and Honors
+</p>
 
-  <strong>EDUCATION:</strong>
-
-  <p>
-  University of California, Santa Barbara              
-  <br />
-  June 2014
-  <br />
-  B.A. History with Distinction in the Major and Honors
-  </p>
-  <br />
-
-  <strong>AWARDS:</strong>
-  <p>
-      Senior Honors Thesis Award, 2013-2014 <br />
-      Member of Phi Beta Kappa <br />
-      2014 UCSB Research Colloquium - 3rd Place Winner (Humanities & Fine Arts) <br />
-      Finalist for Buchanan Award (History Major of the Year) <br />
-  </p>
+<strong>AWARDS:</strong>
+<p>
+    Senior Honors Thesis Award, 2013-2014 <br />
+    Member of Phi Beta Kappa <br />
+    2014 UCSB Research Colloquium - 3rd Place Winner (Humanities & Fine Arts) <br />
+    Finalist for Buchanan Award (History Major of the Year) <br />
+</p>

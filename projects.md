@@ -35,7 +35,7 @@ nav-menu: true
 			<tr>
 				<td><a href="2016/10/10/2016-10-10-rails101.html">Newsletter App</a></td>
 				<td>One of my early Ruby on Rails projects to obtain a general understanding of the framework. The app works with Gmail, SendGrid, and Mailchimp APIs to store email addresses and send newsletters. It is deployed on Heroku.</td>
-				<td><a href="learn-rails-paul.herokuapp.com">View</a></td>
+				<td><a href="http://learn-rails-paul.herokuapp.com/">View</a></td>
 			</tr>
 			<tr>
 				<td><em>Assured Commitment: May 1957, Vietnam-U.S. Diplomacy </em></td>
