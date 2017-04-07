@@ -39,7 +39,7 @@ nav-menu: true
 			</tr>
 			<tr>
 				<td><em>Assured Commitment: May 1957, Vietnam-U.S. Diplomacy </em></td>
-				<td>In this project, I assert that Ngo Dinh Diem's visit to the U.S. in May 1957 preemptively signaled the U.S. commitment to Vietnam years before combat troops landed in 1965. I worked with Laura Kalman, a fantastic professor that challenged me every step of the way, always asking me for more when it came to writing, editing, researching, and quality. It was a great lesson in synthesizing an incredible amount of information and discovering the 'so what' factor.</td>
+				<td>In this one year project, I started with the concept that in May 1957, Ngo Dinh Diem's grand visit to the U.S. preemptively signaled American commitment to Vietnam. I worked with Laura Kalman, a fantastic professor who always challenged me when it came to better research, writing, and quality. I researched archives, newspapers, books, and other resources including interviewing Vietnam War researchers and scholars. It was a powerful lesson in synthesizing an incredible amount of information to craft a cohesive narrative and demonstrate value in all of it.</td>
 				<td><a href="assets/pdfs/Paul Pham - Assured Commitment, Ngo Dinh Diem's Official State Visit, 1957.pdf">Download PDF</a></td>
 			</tr>
 		</tbody>
