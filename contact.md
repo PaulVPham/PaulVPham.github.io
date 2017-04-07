@@ -1,7 +1,6 @@
 ---
 title: Contact
 layout: post
-description: 
-image: 
+description:
+image: assets/images/contact.jpeg
 ---
-

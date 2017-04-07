@@ -1,7 +1,9 @@
 # Paul's Project Website
-This repo's purpose is for me to have a personal website to host my projects and show my general portfolio. A blog is included because I want to write things too.
+This repo's has all the code for my personal website. It has info about me, my projects, resume, and anything else I plan on adding in the future. I didn't do the original design, but I had fun putting all the pieces together and adding a bit of my own style to it. I equally enjoyed learning about Jekyll along the way, purchasing my own domain, and launching a website quickly. This took no longer than a week as I worked on it after work. I started with a CMS the first day, but found out I preferred a text editor, Git, and command line instead.
 
-Credit for website template design goes to HTML5 UP and Andrew Banchich. Please reference the sections below for more info. 
+Technologies Used: HTML5, CSS & SCSS, JavaScript, Ruby & Jekyll, Atom, Github
+
+Credit for website template design goes to HTML5 UP and Andrew Banchich. Please reference the sections below for more info to see how you can create something awesome yourself.
 
 # Forty - Jekyll Theme
 

@@ -29,7 +29,7 @@ nav-menu: true
 			</tr>
 			<tr>
 				<td><a href="2016/10/30/2016-10-30-recipeBox.html">Recipe App</a></td>
-				<td>As a user, I wanted to create an app that allows me to upload my favorite recipes with pictures, ingredients, and directions. This is still a work in progress. Click View to see current screenshots in the dev environment.</td>
+				<td>As a user, I wanted to create an app that allows me to upload my favorite recipes with pictures, ingredients, and directions. I'm not done here yet.</td>
 				<td><a href="https://github.com/PaulVPham/recipe-box">View</a></td>
 			</tr>
 			<tr>
