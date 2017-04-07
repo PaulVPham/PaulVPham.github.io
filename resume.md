@@ -1,7 +1,7 @@
 ---
 title: Resume
 layout: post
-description: test resume
+description:
 image:
 nav-menu: true
 ---
