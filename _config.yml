@@ -37,3 +37,5 @@ twitter_url: https://twitter.com/paulpham24
 markdown: kramdown
 sass:
   style: compressed
+# Google services
+google-analytics: UA-97185002-1
