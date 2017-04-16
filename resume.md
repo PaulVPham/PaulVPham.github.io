@@ -9,7 +9,7 @@ nav-menu: true
 <p>
 Work Experience - Skills - Education - Awards
 <br />
-<a href="assets/pdfs/Paul Pham, Resume 4-3-17.pdf"><strong>Download Resume</strong></a>
+<a href="assets/pdfs/Paul Pham, Resume 4-15-17.pdf"><strong>Download Resume</strong></a>
 </p>
 
 <h4><strong>WORK EXPERIENCE</strong></h4>
@@ -60,7 +60,7 @@ Irvine, CA -- July 2014 - March 2015<br />
 <strong>EDUCATION:</strong>
 
 <p>
-<strong>University of California, Santa Barbara (UCSB)</strong>
+<strong>University of California, Santa Barbara (UCSBope)</strong>
 <br />
 June 2014
 <br />
