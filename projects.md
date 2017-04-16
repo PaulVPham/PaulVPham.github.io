@@ -19,7 +19,7 @@ nav-menu: true
 		<tbody>
 			<tr>
 				<td>This Website!</td>
-				<td>I wanted to put my web dev knowledge to work. Building this site mostly from scratch with my editor and command line was quite the challenge. I am quite proud of how it turned out.</td>
+				<td>I wanted to put my wireframing and web dev knowledge to work. Building this site mostly from scratch with LucidChart, my editor, and terminal was quite fun. I am quite proud of how it turned out.</td>
 				<td><a href="2017/03/25/2017-03-25-thisWebsite.html">View</a></td>
 			</tr>
 			<tr>

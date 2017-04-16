@@ -46,11 +46,11 @@ Irvine, CA -- July 2014 - March 2015<br />
 
 <h4><strong>SKILLS & TOOLS</strong></h4>
 <p>
-<strong>Product Relevant:</strong> customer experience, bug prioritization, user stories, pair programming, kanban, agile SDLC, user assurance <br /> testing, user research, workflow improvement
+<strong>Product Relevant:</strong> customer experience, bug prioritization, user stories, wireframing, pair programming, kanban, agile SDLC, <br /> user assurance testing, user research, workflow improvement
 <br />
-<strong>Project Management:</strong> PivotalTracker, Trello, Github, InVision<br />
+<strong>Project Management:</strong> PivotalTracker, Trello, Github, InVision, LucidChart<br />
 <strong>Technologies Used:</strong> Salesforce, VirtualBox, Zapier, SendGrid, Microsoft Office, GoToMeeting<br />
-<strong>Web Development:</strong> HTML & CSS, Jekyll, Ruby, Ruby on Rails, Rails console, Unix Cmd Line, Heroku<br />
+<strong>Web Development:</strong> HTML & CSS, Jekyll, Ruby, Ruby on Rails, Rails console, Unix Cmd Line, Heroku, Atom (text editor)<br />
 <strong>Language:</strong> Vietnamese (fluent)
 </p>
 
@@ -60,7 +60,7 @@ Irvine, CA -- July 2014 - March 2015<br />
 <strong>EDUCATION:</strong>
 
 <p>
-University of California, Santa Barbara              
+<strong>University of California, Santa Barbara (UCSB)</strong>
 <br />
 June 2014
 <br />
