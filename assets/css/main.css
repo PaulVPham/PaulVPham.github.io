@@ -3915,14 +3915,14 @@
 			visibility: visible;
 		}
 /* iframe embed */
-	.lucidChart-container {
+.lucidChart-container {
 		position: relative;
-		padding-bottom: 42%;
+		padding-bottom: 70%;
 		height: 0;
 		overflow: hidden;
 	}
 
-	.lucidChart-container iframe {
+.lucidChart-container iframe {
 		position: absolute;
 		top: 0;
 		left: 0;

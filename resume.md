@@ -60,7 +60,7 @@ Irvine, CA -- July 2014 - March 2015<br />
 <strong>EDUCATION:</strong>
 
 <p>
-<strong>University of California, Santa Barbara (UCSBope)</strong>
+<strong>University of California, Santa Barbara (UCSB)</strong>
 <br />
 June 2014
 <br />
