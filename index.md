@@ -1,9 +1,8 @@
 ---
 title: Home
 layout: home
-landing-title: Hi, my name is Paul. Welcome.
-description: 
-image: 
-author: 
+landing-title: Hi, I am Paul (Product, Tech, & UX).
+description:
+image:
+author:
 ---
-

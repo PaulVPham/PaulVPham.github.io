@@ -8,11 +8,10 @@ collections:
   uploads:
     title: Uploads
     output: true
-subtitle: Product
+subtitle: Product Person :)
 email: p.pham204@gmail.com
-description: I search for new challenges, build interesting things, and cook
-  new recipes. My passion for technology, products, and learning intersect daily.
-  Everyday is an opportunity to grow. Click the Menu on the top right to see more.
+description: I am building my product management experience one day at a time. I love creating and working with interesting products. Product management is the intersection of my passion for technology and learning.
+
 baseurl: ""
 url: "https://paulvpham.github.io/"
 author:
