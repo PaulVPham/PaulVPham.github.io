@@ -13,3 +13,14 @@ nav-menu: true
 
 <p>In my free time, this is what I do. I study different technologies, build programs, and work with engineers, designers, and PMs. I push myself to solve problems, create apps, wireframes, and products I think others would love. Or I will be cooking some recipe I found on Reddit.</p>
 </div>
+
+I have experience with:
+User stories, wireframe, prototype, pair programming, bug tracking, user research, user assurance testing,
+agile scrum SDLC, XP, customer experience
+
+Familiar project management tools: PivotalTracker, Trello, LucidChart, Github, Salesforce, and Zapier
+
+Web Development: HTML & CSS, Ruby on Rails, Atom (text editor), Heroku, PostgreSQL
+
+I have read:
+The Lean Startup, Inspired, The Ultimate Question 2.0, InfoQ - Scrum & XP from the Trenches, Extreme Programming Explained

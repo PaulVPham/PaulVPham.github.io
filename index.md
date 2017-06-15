@@ -1,7 +1,7 @@
 ---
 title: Home
 layout: home
-landing-title: Hi, I am Paul (Product, Tech, & UX).
+landing-title: Hi, I am Paul.
 description:
 image:
 author:
