@@ -16,8 +16,8 @@ baseurl: ""
 url: "https://paulvpham.github.io/"
 author:
 street_address:
-city: Santa Barbara
-state: CA
+city: Southern California
+# state: 
 zip_code:
 country:
 phone: "(714) 660-7351"
