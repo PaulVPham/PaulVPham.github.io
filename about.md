@@ -11,17 +11,17 @@ nav-menu: true
 
 <p>
 <strong>I have experience with:</strong><br />
-user stories, wireframe, prototype, bug tracking, user research, user assurance testing, backlog prioritization, cross-team communication management, agile scrum SDLC, pair programming, customer experience & empathy, software troubleshooting</p>
+relational DBs, DB querying, Ruby, user stories, wireframe, prototype, bug tracking, user research, user assurance testing, backlog prioritization, cross-team communication management, agile scrum SDLC, pair programming, customer experience & empathy, software troubleshooting</p>
 
 <p>
 <strong>Project Management Tools:</strong>
-PivotalTracker, Trello, LucidChart, Github, Salesforce, Slack, and Zapier
+PivotalTracker, Trello, LucidChart, Salesforce, Slack, and Zapier
 <br />
 <strong>Web Development:</strong>
-HTML & CSS, Jekyll, Ruby on Rails, Atom (text editor), Heroku, PostgreSQL
+HTML & CSS, Ruby, Jekyll, Ruby on Rails, Atom, Heroku, PostgreSQL, Github
 <br />
 <strong>Relevant Readings:</strong>
-The Lean Startup, Inspired, Extreme Programming Explained, The Ultimate Question 2.0, InfoQ - Scrum & XP from the Trenches
+The Lean Startup, Inspired, Extreme Programming Explained, The Ultimate Question 2.0, InfoQ - Scrum & XP from the Trenches, User Story Mapping, Learn Ruby the Hard Way, Agile Web Development with Rails 4, Codecademy - SQL Course
 </p>
 
 <h4><strong>PROJECT LIST</strong></h4>

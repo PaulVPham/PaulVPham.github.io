@@ -8,16 +8,16 @@ collections:
   uploads:
     title: Uploads
     output: true
-subtitle: Product Person :)
+subtitle: Tech | Product
 email: p.pham204@gmail.com
-description: I am building my product management experience one day at a time. I love creating and working with interesting products. Product management is the intersection of my passion for technology and learning.
+description: I am improving my web development and product experience everyday. I love creating and working with software and products. My passion for learning and technology intersect with software development and product management.
 
 baseurl: ""
 url: "https://paulvpham.github.io/"
 author:
 street_address:
 city: Southern California
-# state: 
+state:
 zip_code:
 country:
 phone: "(714) 660-7351"
