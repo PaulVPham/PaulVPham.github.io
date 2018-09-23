@@ -8,15 +8,15 @@ collections:
   uploads:
     title: Uploads
     output: true
-subtitle: Tech | Product
+subtitle: Ruby on Rails | Engineering
 email: p.pham204@gmail.com
-description: I am improving my web development and product experience everyday. I love creating and working with software and products. My passion for learning and technology intersect with software development and product management.
+description: I am improving my web development and product experience everyday. I love creating and working with software and products. My passion for learning and technology intersect with learning great software design and practices.
 
 baseurl: ""
 url: "https://paulvpham.github.io/"
 author:
 street_address:
-city: Southern California
+city: Greater LA Area
 state:
 zip_code:
 country:
@@ -28,11 +28,11 @@ facebook_url:
 github_url: https://github.com/PaulVPham
 gitlab_url:
 googleplus_url:
-instagram_url: https://instagram.com/perplepham
+instagram_url:
 linkedin_url: https://www.linkedin.com/in/perple
 pinterest_url:
 slack_url:
-twitter_url: https://twitter.com/paulpham24
+twitter_url:
 markdown: kramdown
 sass:
   style: compressed
