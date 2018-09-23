@@ -7,18 +7,18 @@ image: assets/images/topOfTheRock.jpg
 nav-menu: true
 ---
 <div class="box">
-<p>I always want to create and build - from Legos, cooking new recipes, languages, and now with products and technology. I have found product management and programming as great partners to challenge myself and grow with the people around me. Inside or outside the office - I am moving forward at all times.</p>
+<p>I always want to create and build - from Legos, cooking new recipes, languages, and now with products and technology. I have found programming as a great way to challenge myself and push intellectual curiosity.</p>
 
 <p>
-<strong>I have experience with:</strong><br />
-relational DBs, DB querying, Ruby, user stories, wireframe, prototype, bug tracking, user research, user assurance testing, backlog prioritization, cross-team communication management, agile scrum SDLC, pair programming, customer experience & empathy, software troubleshooting</p>
+<strong>I am working as a Ruby on Rails engineer and I have experience with:</strong><br />
+Ruby programming, Rails framework, version control, rake/rails tasks for data processing, software troubleshooting, bug tracking, writing and code reviewing scripts, dev environment setup, monitoring CRON jobs, and figuring out best solutions to user needs.</p>
 
 <p>
-<strong>Project Management Tools:</strong>
-PivotalTracker, Trello, LucidChart, Salesforce, Slack, and Zapier
+<strong>Relevant Tools:</strong>
+JIRA, Datadog, Logstash, PivotalTracker, Trello, LucidChart, Salesforce, Slack, and Zapier
 <br />
 <strong>Web Development:</strong>
-HTML & CSS, Ruby, Jekyll, Ruby on Rails, Atom, Heroku, PostgreSQL, Github
+Ruby, Ruby on Rails, HTML & CSS, Atom, Heroku, PostgreSQL, Github
 <br />
 <strong>Relevant Readings:</strong>
 The Lean Startup, Inspired, Extreme Programming Explained, The Ultimate Question 2.0, InfoQ - Scrum & XP from the Trenches, User Story Mapping, Learn Ruby the Hard Way, Agile Web Development with Rails 4, Codecademy - SQL Course
